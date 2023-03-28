@@ -1,0 +1,20 @@
+
+
+@font-face {
+	font-family: raleway;
+	src: local(pt-sans),
+	url('../fonts/Raleway/Raleway-VariableFont_wght.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+@font-face {
+	font-family: alex-brush;
+	src: local(pt-sans),
+	url('../fonts/Alex_Brush/AlexBrush-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
